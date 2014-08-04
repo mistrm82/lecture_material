@@ -1,2 +1,2 @@
-repository
+lecture_material
 ==========
